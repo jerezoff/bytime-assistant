@@ -1,0 +1,22 @@
+{
+  "name": "bytime-assistant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js_old",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@grammyjs/conversations": "^1.1.1",
+    "@grammyjs/emoji": "^1.1.0",
+    "dayjs": "^1.11.7",
+    "grammy": "^1.15.1",
+    "nodemon": "^2.0.21",
+    "pg": "^8.10.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.29.3"
+  }
+}
